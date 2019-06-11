@@ -23,7 +23,7 @@
 			<key>modificationDate</key>
 			<date>2019-06-11 05:40:46 +0000</date>
 			<key>plainText</key>
-			<string>[:word:]</string>
+			<string>[word]</string>
 			<key>snippetType</key>
 			<integer>0</integer>
 			<key>uuidString</key>
