@@ -5,7 +5,7 @@
 	<key>groupInfo</key>
 	<dict>
 		<key>expandAfterMode</key>
-		<integer>2</integer>
+		<integer></integer>
 		<key>groupName</key>
 		<string>posix brackets expressions</string>
 	</dict>
@@ -15,7 +15,7 @@
 			<key> abbreviation</key>
 			<string>word</string>
 			<key>abbreviationMode</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>creationDate</key>
 			<date>2019-06-11 05:40:46 +0000</date>
 			<key>label</key>
