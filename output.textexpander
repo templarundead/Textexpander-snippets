@@ -18,8 +18,6 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2019-06-11 05:40:46 +0000</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Digits Letters And Underscore </string>
 			<key>modificationDate</key>
