@@ -5,297 +5,1046 @@
 	<key>groupInfo</key>
 	<dict>
 		<key>expandAfterMode</key>
-		<integer>2</integer>
+		<integer>0</integer>
 		<key>groupName</key>
-		<string>posix brackets expressions</string>
+		<string>Thought Asylum - Dates</string>
 	</dict>
 	<key>snippetsTE2</key>
 	<array>
 		<dict>
 			<key>abbreviation</key>
-			<string>upper</string>
+			<string>dtnow+</string>
 			<key>abbreviationMode</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>creationDate</key>
-			<date>2019-06-11 05:40:45 +0000</date>
-			<key>flags</key>
-			<integer>0</integer>
+			<date>2012-10-18T16:50:11Z</date>
 			<key>label</key>
-			<string>Uppercase Letters</string>
+			<string>Date - Current (dd/mm/yyyy)</string>
 			<key>modificationDate</key>
-			<date>2019-06-11 05:40:45 +0000</date>
+			<date>2014-06-17T18:51:37Z</date>
 			<key>plainText</key>
-			<string>[:upper:]</string>
+			<string>%d/%m/%Y</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>639E39E7-BA73-4BBA-960D-4B9E32265BD3</string>
+			<string>3A83B3D0-E35A-48E1-BC32-66705B55F424</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>lower</string>
+			<string>dttom</string>
 			<key>abbreviationMode</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>creationDate</key>
-			<date>2019-06-11 05:40:45 +0000</date>
-			<key>flags</key>
-			<integer>0</integer>
+			<date>2014-06-01T17:04:15Z</date>
 			<key>label</key>
-			<string>Lowercase Letters</string>
+			<string>Date - Tomorrow (dd/mm/yyyy)</string>
 			<key>modificationDate</key>
-			<date>2019-06-11 05:40:45 +0000</date>
+			<date>2014-06-17T18:51:22Z</date>
 			<key>plainText</key>
-			<string>[:lower:]</string>
+			<string>%@+1D%d/%m/%Y</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>81A5D6B9-F589-4B91-AD28-378B98498E2C</string>
+			<string>24325A5A-1945-4CF3-968A-10C86204EC24</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>alpha</string>
+			<string>dtyest</string>
 			<key>abbreviationMode</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>creationDate</key>
-			<date>2019-06-11 05:40:45 +0000</date>
-			<key>flags</key>
-			<integer>0</integer>
+			<date>2014-06-01T17:04:57Z</date>
 			<key>label</key>
-			<string>All Letters</string>
+			<string>Date - Yesterday (dd/mm/yyyy)</string>
 			<key>modificationDate</key>
-			<date>2019-06-11 05:40:45 +0000</date>
+			<date>2014-06-17T18:51:14Z</date>
 			<key>plainText</key>
-			<string>[:alpha:]</string>
+			<string>%@-1D%d/%m/%Y</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>394A1044-006D-4A92-B91D-10FCE0F88741</string>
+			<string>3D2F296C-C0F4-4A64-B7BD-8030255DE2C6</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>alnum</string>
+			<string>dsnow+</string>
 			<key>abbreviationMode</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>creationDate</key>
-			<date>2019-06-11 05:40:45 +0000</date>
-			<key>flags</key>
-			<integer>0</integer>
+			<date>2012-10-18T17:03:29Z</date>
 			<key>label</key>
-			<string>Digits And Letters</string>
+			<string>Date Stamp - Current (yyyy-mm-dd)</string>
 			<key>modificationDate</key>
-			<date>2019-06-11 05:40:45 +0000</date>
+			<date>2014-06-17T18:52:41Z</date>
 			<key>plainText</key>
-			<string>[:alnum:]</string>
+			<string>%Y-%m-%d</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>8B15F15C-37DD-410F-858F-7FD36EE71B77</string>
+			<string>1DDF31B9-07DB-4C59-80FF-F8DF2C6CD7CC</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>digit</string>
+			<string>dstom</string>
 			<key>abbreviationMode</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>creationDate</key>
-			<date>2019-06-11 05:40:45 +0000</date>
-			<key>flags</key>
-			<integer>0</integer>
+			<date>2014-06-01T17:05:39Z</date>
 			<key>label</key>
-			<string>Digits</string>
+			<string>Date Stamp - Tomorrow (yyyy-mm-dd)</string>
 			<key>modificationDate</key>
-			<date>2019-06-11 05:40:45 +0000</date>
+			<date>2014-06-17T18:53:11Z</date>
 			<key>plainText</key>
-			<string>[:digit:]</string>
+			<string>%@+1D%Y-%m-%d</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>96BC1B49-9D63-4B5F-AFB0-A1AD50E0DB86</string>
+			<string>8BA41653-AD75-4DA9-B55B-78988D0B9B08</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>xdigit</string>
+			<string>dsyest</string>
 			<key>abbreviationMode</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>creationDate</key>
-			<date>2019-06-11 05:40:45 +0000</date>
-			<key>flags</key>
-			<integer>0</integer>
+			<date>2014-06-01T17:06:11Z</date>
 			<key>label</key>
-			<string>Hexade­Cimal Digits</string>
+			<string>Date Stamp - Yesterday (yyyy-mm-dd)</string>
 			<key>modificationDate</key>
-			<date>2019-06-11 05:40:45 +0000</date>
+			<date>2014-06-17T18:53:05Z</date>
 			<key>plainText</key>
-			<string>[:xdigit:]</string>
+			<string>%@-1D%Y-%m-%d</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>2571C8A4-A56D-4275-9195-2C07AEA4984B</string>
+			<string>F5A2E307-AA2E-4520-9DA2-B9805209C8E3</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>punct</string>
+			<string>tsnow+</string>
 			<key>abbreviationMode</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>creationDate</key>
-			<date>2019-06-11 05:40:45 +0000</date>
-			<key>flags</key>
-			<integer>0</integer>
+			<date>2012-10-18T17:04:23Z</date>
 			<key>label</key>
-			<string>Punctu­Ation</string>
+			<string>Time Stamp - Current (yyyy-mm-dd-hh.MM.ss.)</string>
 			<key>modificationDate</key>
-			<date>2019-06-11 05:40:45 +0000</date>
+			<date>2014-06-17T18:54:34Z</date>
 			<key>plainText</key>
-			<string>[:punct:]</string>
+			<string>%Y-%m-%d-%H.%M.%S</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>0D1D7BD3-5CB0-42C1-9530-4A3EE965EC74</string>
+			<string>91C8E48B-22A8-45F8-BA59-95ECCDACD340</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>blank</string>
+			<string>tstamp</string>
 			<key>abbreviationMode</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>creationDate</key>
-			<date>2019-06-11 05:40:46 +0000</date>
-			<key>flags</key>
-			<integer>0</integer>
+			<date>2014-06-01T17:07:35Z</date>
 			<key>label</key>
-			<string>Space And Tab</string>
+			<string>Time Stamp - Current (yyyy-mm-dd-hh.MM.ss) [Alternate]</string>
 			<key>modificationDate</key>
-			<date>2019-06-11 05:40:46 +0000</date>
+			<date>2014-06-17T18:54:39Z</date>
 			<key>plainText</key>
-			<string>[:blank:]</string>
+			<string>%snippet:tsnow%</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>D87BEB2A-3330-48DF-BA63-0FEE1E475636</string>
+			<string>089F91CF-EE2F-4B64-8756-088500030699</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>space</string>
+			<string>dstamp</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2019-06-11 05:40:46 +0000</date>
-			<key>flags</key>
-			<integer>0</integer>
+			<date>2015-04-13T11:15:05Z</date>
 			<key>label</key>
-			<string>Blank Characters</string>
+			<string>Date Stamp - Current (yyyy-mm-dd) [Alternate]</string>
 			<key>modificationDate</key>
-			<date>2019-06-11 05:40:46 +0000</date>
+			<date>2015-04-13T11:16:33Z</date>
 			<key>plainText</key>
-			<string>[:space:]</string>
+			<string>%snippet:dsnow+%</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>96103AF9-F11B-4AB3-B593-6CF1AA238C16</string>
+			<string>946E25AB-1E2F-46B6-A5DF-666C8055FDCD</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>cntrl</string>
+			<string>dt+day</string>
 			<key>abbreviationMode</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>creationDate</key>
-			<date>2019-06-11 05:40:46 +0000</date>
-			<key>flags</key>
-			<integer>0</integer>
+			<date>2015-07-15T21:16:55Z</date>
 			<key>label</key>
-			<string>Control Characters</string>
+			<string>Date - Current + N days (dd/mm/yyyy) [Fill In]</string>
 			<key>modificationDate</key>
-			<date>2019-06-11 05:40:46 +0000</date>
+			<date>2015-07-15T21:45:11Z</date>
 			<key>plainText</key>
-			<string>[:cntrl:]</string>
+			<string>%snippet:lib_ta_dates%
+
+CurrentDateAddDays(%filltext:name=Days to Add:default=7%);
+%filltop%</string>
 			<key>snippetType</key>
-			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
+			<integer>4</integer>
 			<key>uuidString</key>
-			<string>275E96C0-71BD-4F0B-8198-64ED1C79884A</string>
+			<string>1BDFC9EE-BDD4-4036-9215-8837627BF49E</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>graph</string>
+			<string>lib_ta_dates</string>
 			<key>abbreviationMode</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>creationDate</key>
-			<date>2019-06-11 05:40:46 +0000</date>
-			<key>flags</key>
-			<integer>0</integer>
+			<date>2015-07-15T21:38:30Z</date>
 			<key>label</key>
-			<string>Printed Characters</string>
+			<string>* Library - Date Functions</string>
 			<key>modificationDate</key>
-			<date>2019-06-11 05:40:46 +0000</date>
+			<date>2015-10-29T21:41:05Z</date>
 			<key>plainText</key>
-			<string>[:graph:]</string>
+			<string>function CurrentDateObjectAddDays(p_intDays){
+	var objDate = new Date();
+	var intDay = 1000 * 60 * 60 * 24;
+	objDate.setDate(objDate.getDate() + p_intDays);
+	return objDate;
+}
+
+function CurrentDateAddDays(p_intDays){
+	var objDate = CurrentDateObjectAddDays(p_intDays);
+	return PrePadZero(objDate.getDate()) + "/" + PrePadZero(objDate.getMonth()+1) + "/" + objDate.getFullYear();
+}
+
+function CurrentDateStampAddDays(p_intDays){
+	var objDate = CurrentDateObjectAddDays(p_intDays);
+	return objDate.getFullYear() + "-" + PrePadZero(objDate.getMonth()+1) + "-" + PrePadZero(objDate.getDate());
+}
+
+function CurrentDateAddWeeks(p_intWeeks){
+	return CurrentDateAddDays(7 * p_intWeeks);
+}
+
+function CurrentDateStampAddWeeks(p_intWeeks){
+	return CurrentDateStampAddDays(7 * p_intWeeks);
+}
+
+function PrePadZero(p_intInput) { 
+	return (p_intInput &lt; 10) ? '0' + p_intInput : p_intInput; 
+}
+
+//Constants for JavaScript days of the week IDs
+var CON_DAY_SUN = 0;
+var CON_DAY_MON = 1;
+var CON_DAY_TUE = 2;
+var CON_DAY_WED = 3;
+var CON_DAY_THU = 4;
+var CON_DAY_FRI = 5;
+var CON_DAY_SAT = 6;
+
+
+//Return the next Monday/Tuesday/Wednesday/etc. after today
+function NextDay(p_dtStartDate, p_intDay) {
+    var dtFinalDate = new Date(p_dtStartDate||new Date());
+    dtFinalDate.setDate(dtFinalDate.getDate() + (p_intDay - 1 - dtFinalDate.getDay() + 7) % 7 + 1);
+    return dtFinalDate;
+}
+
+//Return the last Monday/Tuesday/Wednesday/etc. before today
+function PrevDay(p_dtStartDate, p_intDay) {
+	//Move us just over a week back
+	var dtModifiedDate = new Date();
+	dtModifiedDate.setDate(p_dtStartDate.getDate() - 8);
+
+	//Now add forward
+	return NextDay(dtModifiedDate, p_intDay);
+}
+
+
+function GetNextDay(p_intDay){
+	var objDate = new Date();
+	return NextDay(objDate, p_intDay);
+}
+
+
+function GetPrevDay(p_intDay){
+	var objDate = new Date();
+	return PrevDay(objDate, p_intDay);
+}
+
+function GetNextDayDate(p_intDay){
+	return FormatDate_ddmmyyyy(GetNextDay(p_intDay));
+}
+
+
+function GetPrevDayDate(p_intDay){
+	return FormatDate_ddmmyyyy(GetPrevDay(p_intDay));
+}
+
+function GetNextDayDateStamp(p_intDay){
+	return FormatDate_yyyymmdd(GetNextDay(p_intDay));
+}
+
+
+function GetPrevDayDateStamp(p_intDay){
+	return FormatDate_yyyymmdd(GetPrevDay(p_intDay));
+}
+
+function FormatDate_ddmmyyyy(objDate){
+	return PrePadZero(objDate.getDate()) + "/" + PrePadZero(objDate.getMonth() + 1) + "/" + objDate.getFullYear();
+}
+
+function FormatDate_yyyymmdd(objDate){
+	return objDate.getFullYear() + "-" + PrePadZero(objDate.getMonth() + 1) + "-" + PrePadZero(objDate.getDate());
+}
+
+function GetWeekDay(p_strDate) {
+	//Return day of week from a date string formatted mm/dd/yyyy
+	var dtInput = new Date(p_strDate);
+
+	//Hold the days of the week in an array
+	var astrWeekDay = new Array(7);
+	astrWeekDay[0]=  "Sunday";
+	astrWeekDay[1] = "Monday";
+	astrWeekDay[2] = "Tuesday";
+	astrWeekDay[3] = "Wednesday";
+	astrWeekDay[4] = "Thursday";
+	astrWeekDay[5] = "Friday";
+	astrWeekDay[6] = "Saturday";
+ 
+	//Read back the day of the week from the array
+	return astrWeekDay[dtInput.getDay()];
+}
+
+function GetWeekDayUK(p_strDate) {
+	//Return day of week from a date string formatted dd/mm/yyyy
+	return GetWeekDay(ConvertUKtoUSDateFormat(p_strDate));
+}
+
+function ConvertUKtoUSDateFormat(p_strUKDate){
+	//Convert "dd/mm/yyyy" to "mm/dd/yyyy" - e.g. to use as input to a JavaScript date object
+	return p_strUKDate.replace(/^(\d{1,2}\/)(\d{1,2}\/)(\d{4})$/,"$2$1$3");
+}</string>
 			<key>snippetType</key>
-			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
+			<integer>4</integer>
 			<key>uuidString</key>
-			<string>2109ABC0-EEC3-4B6A-A448-77FF135A2B6E</string>
+			<string>9C6202E2-FBAB-42E1-91A6-F881FE5155CB</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>print</string>
+			<string>dt+week</string>
 			<key>abbreviationMode</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>creationDate</key>
-			<date>2019-06-11 05:40:46 +0000</date>
-			<key>flags</key>
-			<integer>0</integer>
+			<date>2015-07-15T21:16:55Z</date>
 			<key>label</key>
-			<string>Printed Characters And Spaces</string>
+			<string>Date - Current + N weeks (dd/mm/yyyy) [Fill In]</string>
 			<key>modificationDate</key>
-			<date>2019-06-11 05:40:46 +0000</date>
+			<date>2015-07-15T21:47:07Z</date>
 			<key>plainText</key>
-			<string>[:print:]</string>
+			<string>%snippet:lib_ta_dates%
+
+CurrentDateAddWeeks(%filltext:name=Weeks to Add:default=2%);
+%filltop%</string>
 			<key>snippetType</key>
-			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
+			<integer>4</integer>
 			<key>uuidString</key>
-			<string>126F2A9F-0680-47A3-BCD3-8E1DA893512C</string>
+			<string>0B662EE8-FA9C-434A-B2B4-564ED39B81C7</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>word</string>
+			<string>ds+day</string>
 			<key>abbreviationMode</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>creationDate</key>
-			<date>2019-06-11 05:40:46 +0000</date>
-			<key>flags</key>
-			<integer>0</integer>
+			<date>2015-07-15T21:16:55Z</date>
 			<key>label</key>
-			<string>Digits Letters And Underscore </string>
+			<string>Date Stamp - Current + N days (yyyy-mm-dd) [Fill In]</string>
 			<key>modificationDate</key>
-			<date>2019-06-11 05:40:46 +0000</date>
+			<date>2015-07-15T21:45:49Z</date>
 			<key>plainText</key>
-			<string>[:word:]</string>
+			<string>%snippet:lib_ta_dates%
+
+CurrentDateStampAddDays(%filltext:name=Days to Add:default=7%);
+%filltop%</string>
 			<key>snippetType</key>
-			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
+			<integer>4</integer>
 			<key>uuidString</key>
-			<string>8CAC2B01-8F7A-4CCA-A41B-804A48014945</string>
+			<string>3D54F9C1-0C9F-4C10-B60D-58D23CF0F632</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>ds+week</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-07-15T21:16:55Z</date>
+			<key>label</key>
+			<string>Date Stamp - Current + N weeks (yyyy-mm-dd) [Fill In]</string>
+			<key>modificationDate</key>
+			<date>2015-07-15T21:47:01Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+CurrentDateStampAddWeeks(%filltext:name=Weeks to Add:default=2%);
+%filltop%</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>D3B1C865-D426-4260-B57F-DE5788DD8114</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dtnextmon</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-07-21T20:31:24Z</date>
+			<key>label</key>
+			<string>Date - Next Monday (dd/mm/yyyy) (JavaScript)</string>
+			<key>modificationDate</key>
+			<date>2015-07-22T12:19:57Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+GetNextDayDate(CON_DAY_MON);</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>A8C15ABF-4B10-4992-9400-8FFEFEC5C7AA</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dtlasttue</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-07-21T20:31:24Z</date>
+			<key>label</key>
+			<string>Date - Last Tuesday (dd/mm/yyyy) (JavaScript)</string>
+			<key>modificationDate</key>
+			<date>2015-07-22T12:02:08Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+GetPrevDayDate(CON_DAY_TUE);</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>CD727E96-003C-41B1-997A-522001196D11</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dslasttue</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-07-21T20:31:24Z</date>
+			<key>label</key>
+			<string>Date Stamp - Last Tuesday (yyyy-mm-dd) (JavaScript)</string>
+			<key>modificationDate</key>
+			<date>2015-07-22T11:02:23Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+GetPrevDayDateStamp(CON_DAY_TUE);</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>16E78C9A-9465-49E6-BBC4-3A5B383A4035</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dsnextmon</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-07-21T20:31:24Z</date>
+			<key>label</key>
+			<string>Date Stamp - Next Monday (yyyy-mm-dd) (JavaScript)</string>
+			<key>modificationDate</key>
+			<date>2015-07-22T10:59:41Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+GetNextDayDateStamp(CON_DAY_MON);</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>94EFF837-C89B-4EE8-B7EE-5CA14914A351</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dsnexttue</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-07-21T20:31:24Z</date>
+			<key>label</key>
+			<string>Date Stamp - Next Tuesday (yyyy-mm-dd) (JavaScript)</string>
+			<key>modificationDate</key>
+			<date>2015-07-22T11:00:06Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+GetNextDayDateStamp(CON_DAY_TUE);</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>CD98C2E5-BB67-4893-A24F-E5DACD2BEB99</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dsnextsat</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-07-21T20:31:24Z</date>
+			<key>label</key>
+			<string>Date Stamp - Next Saturday (yyyy-mm-dd) (JavaScript)</string>
+			<key>modificationDate</key>
+			<date>2015-07-22T11:01:10Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+GetNextDayDateStamp(CON_DAY_SAT);</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>0F34E9DF-8004-471F-96EC-40D14E7E3225</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dsnextthu</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-07-21T20:31:24Z</date>
+			<key>label</key>
+			<string>Date Stamp - Next Thursday (yyyy-mm-dd) (JavaScript)</string>
+			<key>modificationDate</key>
+			<date>2015-07-22T11:00:23Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+GetNextDayDateStamp(CON_DAY_THU);</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>93AC7FCC-A139-4941-AC42-B19AD64BD00B</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dsnextfri</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-07-21T20:31:24Z</date>
+			<key>label</key>
+			<string>Date Stamp - Next Friday (yyyy-mm-dd) (JavaScript)</string>
+			<key>modificationDate</key>
+			<date>2015-07-22T11:00:47Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+GetNextDayDateStamp(CON_DAY_FRI);</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>5D0F1DF5-44A0-49D5-B5DD-EEA2AFC5EF97</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dsnextwed</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-07-21T20:31:24Z</date>
+			<key>label</key>
+			<string>Date Stamp - Next Wednesday (yyyy-mm-dd) (JavaScript)</string>
+			<key>modificationDate</key>
+			<date>2015-07-22T09:28:40Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+GetNextDayDateStamp(CON_DAY_WED);</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>6EC8729E-6EC7-4E29-8823-401567FF3670</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dsnextsun</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-07-21T20:31:24Z</date>
+			<key>label</key>
+			<string>Date Stamp - Next Sunday (yyyy-mm-dd) (JavaScript)</string>
+			<key>modificationDate</key>
+			<date>2015-07-22T11:01:36Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+GetNextDayDateStamp(CON_DAY_SUN);</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>0FEF8B80-9A3D-44B8-9B65-569C3402E3F7</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dslastthu</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-07-21T20:31:24Z</date>
+			<key>label</key>
+			<string>Date Stamp - Last Thursday (yyyy-mm-dd) (JavaScript)</string>
+			<key>modificationDate</key>
+			<date>2015-07-22T11:02:37Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+GetPrevDayDateStamp(CON_DAY_THU);</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>B9D4CFAE-ED75-47F3-BE04-B23495781AD3</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dslastsat</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-07-21T20:31:24Z</date>
+			<key>label</key>
+			<string>Date Stamp - Last Saturday (yyyy-mm-dd) (JavaScript)</string>
+			<key>modificationDate</key>
+			<date>2015-07-22T11:03:24Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+GetPrevDayDateStamp(CON_DAY_SAT);</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>8F139BFE-28DC-45A0-99D4-05B927CCF29F</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dslastwed</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-07-21T20:31:24Z</date>
+			<key>label</key>
+			<string>Date Stamp - Last Wednesday (yyyy-mm-dd) (JavaScript)</string>
+			<key>modificationDate</key>
+			<date>2015-07-22T09:27:15Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+GetPrevDayDateStamp(CON_DAY_WED);</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>9F8CFADE-9CFD-40BB-B89E-EE10CDBA9335</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dslastfri</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-07-21T20:31:24Z</date>
+			<key>label</key>
+			<string>Date Stamp - Last Friday (yyyy-mm-dd) (JavaScript)</string>
+			<key>modificationDate</key>
+			<date>2015-07-22T11:03:40Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+GetPrevDayDateStamp(CON_DAY_FRI);</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>E00F8FC7-2298-47FF-A9DE-553F85BCCCD1</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dslastsun</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-07-21T20:31:24Z</date>
+			<key>label</key>
+			<string>Date Stamp - Last Sunday (yyyy-mm-dd) (JavaScript)</string>
+			<key>modificationDate</key>
+			<date>2015-07-22T11:03:58Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+GetPrevDayDateStamp(CON_DAY_SUN);</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>EBC6E858-C2C1-48F1-BA86-826930C03B74</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dslastmon</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-07-21T20:31:24Z</date>
+			<key>label</key>
+			<string>Date Stamp - Last Monday (yyyy-mm-dd) (JavaScript)</string>
+			<key>modificationDate</key>
+			<date>2015-07-22T11:02:06Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+GetPrevDayDateStamp(CON_DAY_MON);</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>02BE6289-C83A-4A4D-B11C-53036B18B626</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dtlastwed</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-07-21T20:31:24Z</date>
+			<key>label</key>
+			<string>Date - Last Wednesday (dd/mm/yyyy) (JavaScript)</string>
+			<key>modificationDate</key>
+			<date>2015-07-22T12:19:44Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+GetPrevDayDate(CON_DAY_WED);</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>6575BE27-3C0B-48C9-8084-0C758FC3B757</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dtlastthu</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-07-21T20:31:24Z</date>
+			<key>label</key>
+			<string>Date - Last Thursday (dd/mm/yyyy) (JavaScript)</string>
+			<key>modificationDate</key>
+			<date>2015-07-22T12:02:28Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+GetPrevDayDate(CON_DAY_THU);</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>DBDF51A1-71FD-45AC-80AC-93F40CCA173F</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dtlastsun</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-07-21T20:31:24Z</date>
+			<key>label</key>
+			<string>Date - Last Sunday (dd/mm/yyyy) (JavaScript)</string>
+			<key>modificationDate</key>
+			<date>2015-07-22T12:03:28Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+GetPrevDayDate(CON_DAY_SUN);</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>24DC950E-6C68-4D91-B910-21D17E0AA88A</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dtlastsat</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-07-21T20:31:24Z</date>
+			<key>label</key>
+			<string>Date - Last Saturday (dd/mm/yyyy) (JavaScript)</string>
+			<key>modificationDate</key>
+			<date>2015-07-22T12:03:10Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+GetPrevDayDate(CON_DAY_SAT);</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>B5E7A660-2E65-4A20-8AAE-1B784C4670DB</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dtnextfri</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-07-21T20:31:24Z</date>
+			<key>label</key>
+			<string>Date - Next Friday (dd/mm/yyyy) (JavaScript)</string>
+			<key>modificationDate</key>
+			<date>2015-07-22T12:20:39Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+GetNextDayDate(CON_DAY_FRI);</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>55FF7339-FACD-4C6C-BA65-F9B9A55D2755</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dtnexttue</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-07-21T20:31:24Z</date>
+			<key>label</key>
+			<string>Date - Next Tuesday (dd/mm/yyyy) (JavaScript)</string>
+			<key>modificationDate</key>
+			<date>2015-07-22T12:20:12Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+GetNextDayDate(CON_DAY_TUE);</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>024EEA1F-7CB9-458A-A967-844F4D5C7A77</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dtnextthu</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-07-21T20:31:24Z</date>
+			<key>label</key>
+			<string>Date - Next Thursday (dd/mm/yyyy) (JavaScript)</string>
+			<key>modificationDate</key>
+			<date>2015-07-22T12:20:25Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+GetNextDayDate(CON_DAY_THU);</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>887614FA-462C-4605-89E2-D5B14C39CCD1</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dtnextsat</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-07-21T20:31:24Z</date>
+			<key>label</key>
+			<string>Date - Next Saturday (dd/mm/yyyy) (JavaScript)</string>
+			<key>modificationDate</key>
+			<date>2015-07-22T12:20:54Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+GetNextDayDate(CON_DAY_SAT);</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>DC66E1DA-DFFE-4B53-ABE1-E8011DB75EE9</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dtnextsun</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-07-21T20:31:24Z</date>
+			<key>label</key>
+			<string>Date - Next Sunday (dd/mm/yyyy) (JavaScript)</string>
+			<key>modificationDate</key>
+			<date>2015-07-22T12:21:28Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+GetNextDayDate(CON_DAY_SUN);</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>7A6300BF-F186-42BC-A0D4-485B8DCAAC27</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dtnextwed</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-07-21T20:31:24Z</date>
+			<key>label</key>
+			<string>Date - Next Wednesday (dd/mm/yyyy) (JavaScript)</string>
+			<key>modificationDate</key>
+			<date>2015-07-22T09:13:39Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+GetNextDayDate(CON_DAY_WED);</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>3F4A4FC7-DBF3-4624-BD05-4C7DC9FF3EDD</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dtlastfri</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-07-21T20:31:24Z</date>
+			<key>label</key>
+			<string>Date - Last Friday (dd/mm/yyyy) (JavaScript)</string>
+			<key>modificationDate</key>
+			<date>2015-07-22T12:02:46Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+GetPrevDayDate(CON_DAY_FRI);</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>6BE61017-BC41-4538-A113-92B89ADB6B3E</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dtlastmon</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-07-21T20:31:24Z</date>
+			<key>label</key>
+			<string>Date - Last Monday (dd/mm/yyyy) (JavaScript)</string>
+			<key>modificationDate</key>
+			<date>2015-07-22T12:19:11Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+GetPrevDayDate(CON_DAY_MON);</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>2B94AD4D-F241-40C5-BA89-91F16179869D</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dowdmy</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-05-31T08:24:23Z</date>
+			<key>label</key>
+			<string>Day of Week from Date - (dd/mm/yyyy) (JavaScript)</string>
+			<key>modificationDate</key>
+			<date>2015-10-29T21:43:02Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+GetWeekDayUK("%filltext:name=Convert Date (dd/mm/yyyy)%");
+
+%filltop%
+</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>4E390E58-504C-4D7E-8D1F-3E5612E893E4</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dowmdy</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-05-31T08:24:23Z</date>
+			<key>label</key>
+			<string>Day of Week from Date - (mm/dd/yyyy) (JavaScript)</string>
+			<key>modificationDate</key>
+			<date>2015-10-29T21:42:10Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+GetWeekDay("%filltext:name=Convert Date (mm/dd/yyyy)%");
+
+%filltop%
+</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>9A9378E1-AE4C-4D9B-AC21-433F1EB14675</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dowus</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-10-29T21:35:01Z</date>
+			<key>label</key>
+			<string>Day of Week from Date - (US) (JavaScript)</string>
+			<key>modificationDate</key>
+			<date>2015-10-29T21:42:18Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+GetWeekDay("%filltext:name=Convert Date (mm/dd/yyyy)%");
+
+%filltop%</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>402AFE65-1A46-41DD-AF9C-2DA5CDED60CE</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>dowuk</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-05-31T08:24:23Z</date>
+			<key>label</key>
+			<string>Day of Week from Date - (UK) (JavaScript)</string>
+			<key>modificationDate</key>
+			<date>2015-10-29T21:43:23Z</date>
+			<key>plainText</key>
+			<string>%snippet:lib_ta_dates%
+
+GetWeekDayUK("%filltext:name=Convert Date (dd/mm/yyyy)%");
+
+%filltop%
+</string>
+			<key>snippetType</key>
+			<integer>4</integer>
+			<key>uuidString</key>
+			<string>4126C7A6-7A2E-4027-95BE-85942CC0643F</string>
 		</dict>
 	</array>
 </dict>
