@@ -5,14 +5,14 @@
 	<key>groupInfo</key>
 	<dict>
 		<key>expandAfterMode</key>
-		<integer></integer>
+		<integer>0</integer>
 		<key>groupName</key>
 		<string>posix brackets expressions</string>
 	</dict>
 	<key>snippetsTE2</key>
 	<array>
 		<dict>
-			<key> abbreviation</key>
+			<key>abbreviation</key>
 			<string>word</string>
 			<key>abbreviationMode</key>
 			<integer>1</integer>
