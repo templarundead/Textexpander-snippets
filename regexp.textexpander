@@ -13,17 +13,17 @@
 	<array>
 		<dict>
 			<key>abbreviation</key>
-			<string>[:upper:]</string>
+			<string>$upper</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2019-06-11T15:19:45Z</date>
+			<date>2019-06-11T15:51:13Z</date>
 			<key>flags</key>
 			<integer>0</integer>
 			<key>label</key>
-			<string>Uppercase Letters</string>
+			<string>[:Upper:] Uppercase Letters</string>
 			<key>modificationDate</key>
-			<date>2019-06-11T15:19:45Z</date>
+			<date>2019-06-11T15:51:13Z</date>
 			<key>plainText</key>
 			<string>[:upper:]</string>
 			<key>snippetType</key>
@@ -31,21 +31,21 @@
 			<key>useCount</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>81979B3E-88AF-4A00-B470-4DD1D9216E1C</string>
+			<string>1BA8D8A7-F51F-48D6-B19E-CF6216C215DF</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>[:lower:]</string>
+			<string>$lower</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2019-06-11T15:19:45Z</date>
+			<date>2019-06-11T15:51:13Z</date>
 			<key>flags</key>
 			<integer>0</integer>
 			<key>label</key>
-			<string>Lowercase Letters</string>
+			<string>[:Lower:] Lowercase Letters</string>
 			<key>modificationDate</key>
-			<date>2019-06-11T15:19:45Z</date>
+			<date>2019-06-11T15:51:13Z</date>
 			<key>plainText</key>
 			<string>[:lower:]</string>
 			<key>snippetType</key>
@@ -53,21 +53,21 @@
 			<key>useCount</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>2205F4BA-46E5-41EE-8F08-80E1C26C8559</string>
+			<string>A1208FD6-416C-4141-8439-7592C8D07EEC</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>[:alpha:]</string>
+			<string>$alpha</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2019-06-11T15:19:45Z</date>
+			<date>2019-06-11T15:51:13Z</date>
 			<key>flags</key>
 			<integer>0</integer>
 			<key>label</key>
-			<string>All Letters</string>
+			<string>[:Alpha:] All Letters</string>
 			<key>modificationDate</key>
-			<date>2019-06-11T15:19:45Z</date>
+			<date>2019-06-11T15:51:13Z</date>
 			<key>plainText</key>
 			<string>[:alpha:]</string>
 			<key>snippetType</key>
@@ -75,21 +75,21 @@
 			<key>useCount</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>76E1922B-4990-4C0E-A595-992C8E62D9F2</string>
+			<string>1EE5C411-4A5C-44D0-8D71-1D89485AA662</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>[:alnum:]</string>
+			<string>$alnum</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2019-06-11T15:19:45Z</date>
+			<date>2019-06-11T15:51:13Z</date>
 			<key>flags</key>
 			<integer>0</integer>
 			<key>label</key>
-			<string>Digits And Letters</string>
+			<string>[:Alnum:] Digits And Letters</string>
 			<key>modificationDate</key>
-			<date>2019-06-11T15:19:45Z</date>
+			<date>2019-06-11T15:51:13Z</date>
 			<key>plainText</key>
 			<string>[:alnum:]</string>
 			<key>snippetType</key>
@@ -97,21 +97,21 @@
 			<key>useCount</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>742296CC-A33D-4294-B783-5B5AD0A8C69E</string>
+			<string>E6868C84-787F-4425-A25F-0CB660E76749</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>[:digit:]</string>
+			<string>$digit</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2019-06-11T15:19:45Z</date>
+			<date>2019-06-11T15:51:13Z</date>
 			<key>flags</key>
 			<integer>0</integer>
 			<key>label</key>
-			<string>Digits</string>
+			<string>[:Digit:] Digits</string>
 			<key>modificationDate</key>
-			<date>2019-06-11T15:19:45Z</date>
+			<date>2019-06-11T15:51:13Z</date>
 			<key>plainText</key>
 			<string>[:digit:]</string>
 			<key>snippetType</key>
@@ -119,21 +119,21 @@
 			<key>useCount</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>7C303434-04EC-49F9-95F6-11263903FA4F</string>
+			<string>475E775C-C00F-421C-8E80-4DF676307350</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>[:xdigit:]</string>
+			<string>$xdigit</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2019-06-11T15:19:45Z</date>
+			<date>2019-06-11T15:51:13Z</date>
 			<key>flags</key>
 			<integer>0</integer>
 			<key>label</key>
-			<string>Hexade­Cimal Digits</string>
+			<string>[:Xdigit:] Hexade­Cimal Digits</string>
 			<key>modificationDate</key>
-			<date>2019-06-11T15:19:45Z</date>
+			<date>2019-06-11T15:51:13Z</date>
 			<key>plainText</key>
 			<string>[:xdigit:]</string>
 			<key>snippetType</key>
@@ -141,21 +141,21 @@
 			<key>useCount</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>C3354C1C-EE08-4C36-8CFB-AB214A0B5A42</string>
+			<string>AA2EC13F-45A4-424B-941A-CF09C9A6E119</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>[:punct:]</string>
+			<string>$punct</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2019-06-11T15:19:45Z</date>
+			<date>2019-06-11T15:51:13Z</date>
 			<key>flags</key>
 			<integer>0</integer>
 			<key>label</key>
-			<string>Punctu­Ation</string>
+			<string>[:Punct:] Punctu­Ation</string>
 			<key>modificationDate</key>
-			<date>2019-06-11T15:19:45Z</date>
+			<date>2019-06-11T15:51:13Z</date>
 			<key>plainText</key>
 			<string>[:punct:]</string>
 			<key>snippetType</key>
@@ -163,21 +163,21 @@
 			<key>useCount</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>9B43DB5F-2762-43FC-9327-2D40923E7120</string>
+			<string>E5F4A84A-A852-4572-AD75-33969F9B524D</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>[:blank:]</string>
+			<string>$blank</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2019-06-11T15:19:45Z</date>
+			<date>2019-06-11T15:51:13Z</date>
 			<key>flags</key>
 			<integer>0</integer>
 			<key>label</key>
-			<string>Space And Tab</string>
+			<string>[:Blank:] Space And Tab</string>
 			<key>modificationDate</key>
-			<date>2019-06-11T15:19:45Z</date>
+			<date>2019-06-11T15:51:13Z</date>
 			<key>plainText</key>
 			<string>[:blank:]</string>
 			<key>snippetType</key>
@@ -185,21 +185,21 @@
 			<key>useCount</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>D4CB13BE-1510-43F7-8C56-2077105BF221</string>
+			<string>EE428582-28B1-4067-AAB4-D0303E76DF9B</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>[:space:]</string>
+			<string>$space</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2019-06-11T15:19:45Z</date>
+			<date>2019-06-11T15:51:13Z</date>
 			<key>flags</key>
 			<integer>0</integer>
 			<key>label</key>
-			<string>Blank Characters</string>
+			<string>[:Space:] Blank Characters</string>
 			<key>modificationDate</key>
-			<date>2019-06-11T15:19:45Z</date>
+			<date>2019-06-11T15:51:13Z</date>
 			<key>plainText</key>
 			<string>[:space:]</string>
 			<key>snippetType</key>
@@ -207,21 +207,21 @@
 			<key>useCount</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>F62014A7-D606-4B86-BA7F-E79FAE7537CD</string>
+			<string>D30C0AD1-7DEF-4726-83FD-A2971B064B1A</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>[:cntrl:]</string>
+			<string>$cntrl</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2019-06-11T15:19:45Z</date>
+			<date>2019-06-11T15:51:13Z</date>
 			<key>flags</key>
 			<integer>0</integer>
 			<key>label</key>
-			<string>Control Characters</string>
+			<string>[:Cntrl:] Control Characters</string>
 			<key>modificationDate</key>
-			<date>2019-06-11T15:19:45Z</date>
+			<date>2019-06-11T15:51:13Z</date>
 			<key>plainText</key>
 			<string>[:cntrl:]</string>
 			<key>snippetType</key>
@@ -229,21 +229,21 @@
 			<key>useCount</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>6FB46081-6976-4D0F-A422-845356730DA5</string>
+			<string>4030D048-CE69-4C6F-B8CC-295FFC60071A</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>[:graph:]</string>
+			<string>$graph</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2019-06-11T15:19:45Z</date>
+			<date>2019-06-11T15:51:13Z</date>
 			<key>flags</key>
 			<integer>0</integer>
 			<key>label</key>
-			<string>Printed Characters</string>
+			<string>[:Graph:] Printed Characters</string>
 			<key>modificationDate</key>
-			<date>2019-06-11T15:19:45Z</date>
+			<date>2019-06-11T15:51:13Z</date>
 			<key>plainText</key>
 			<string>[:graph:]</string>
 			<key>snippetType</key>
@@ -251,21 +251,21 @@
 			<key>useCount</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>C82B1470-AB76-4955-BA08-CA582DB7AF20</string>
+			<string>E762B27E-0E65-49F8-9E74-6A7716C51725</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>[:print:]</string>
+			<string>$print</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2019-06-11T15:19:45Z</date>
+			<date>2019-06-11T15:51:13Z</date>
 			<key>flags</key>
 			<integer>0</integer>
 			<key>label</key>
-			<string>Printed Characters And Spaces</string>
+			<string>[:Print:] Printed Characters And Spaces</string>
 			<key>modificationDate</key>
-			<date>2019-06-11T15:19:45Z</date>
+			<date>2019-06-11T15:51:13Z</date>
 			<key>plainText</key>
 			<string>[:print:]</string>
 			<key>snippetType</key>
@@ -273,21 +273,21 @@
 			<key>useCount</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>99040191-5647-48D6-BB37-1D1368B07FCF</string>
+			<string>74C4AB4E-FD47-4721-B2B5-C8FDB47377B0</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
-			<string>[:word:]</string>
+			<string>$word</string>
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2019-06-11T15:19:45Z</date>
+			<date>2019-06-11T15:51:13Z</date>
 			<key>flags</key>
 			<integer>0</integer>
 			<key>label</key>
-			<string>Digits</string>
+			<string>[:Word:] Digits Letters And Underscore </string>
 			<key>modificationDate</key>
-			<date>2019-06-11T15:19:45Z</date>
+			<date>2019-06-11T15:51:13Z</date>
 			<key>plainText</key>
 			<string>[:word:]</string>
 			<key>snippetType</key>
@@ -295,7 +295,7 @@
 			<key>useCount</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>6FE71392-6680-426D-82A4-0F5A59513963</string>
+			<string>ECA54664-EBFC-4EDB-A087-392CF6A54E67</string>
 		</dict>
 	</array>
 </dict>
