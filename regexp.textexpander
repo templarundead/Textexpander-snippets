@@ -17,13 +17,13 @@
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2019-06-11</date>
+			<date>2019-06-11T14:59:19Z</date>
 			<key>flags</key>
 			<integer>0</integer>
 			<key>label</key>
 			<string>Uppercase Letters</string>
 			<key>modificationDate</key>
-			<date>2019-06-11</date>
+			<date>2019-06-11T14:59:19Z</date>
 			<key>plainText</key>
 			<string>[:upper:]</string>
 			<key>snippetType</key>
@@ -31,7 +31,7 @@
 			<key>useCount</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>2F8420B7-621A-45C3-AB3D-0CB911738208</string>
+			<string>D3C8A0AB-A23C-4FCF-ADA3-037D11AEEF01</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -39,13 +39,13 @@
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2019-06-11</date>
+			<date>2019-06-11T14:59:19Z</date>
 			<key>flags</key>
 			<integer>0</integer>
 			<key>label</key>
 			<string>Lowercase Letters</string>
 			<key>modificationDate</key>
-			<date>2019-06-11</date>
+			<date>2019-06-11T14:59:19Z</date>
 			<key>plainText</key>
 			<string>[:lower:]</string>
 			<key>snippetType</key>
@@ -53,7 +53,7 @@
 			<key>useCount</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>4150E823-DA28-4E7F-BDEB-05EF7BDF957D</string>
+			<string>D524AC85-18E0-43E4-8FED-31D11D8314B0</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -61,13 +61,13 @@
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2019-06-11</date>
+			<date>2019-06-11T14:59:19Z</date>
 			<key>flags</key>
 			<integer>0</integer>
 			<key>label</key>
 			<string>All Letters</string>
 			<key>modificationDate</key>
-			<date>2019-06-11</date>
+			<date>2019-06-11T14:59:19Z</date>
 			<key>plainText</key>
 			<string>[:alpha:]</string>
 			<key>snippetType</key>
@@ -75,7 +75,7 @@
 			<key>useCount</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>7687FA09-13D8-4E30-9C5B-CFA278D83E59</string>
+			<string>162AC2D8-A3B1-4352-8FE7-C403AE1908F2</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -83,13 +83,13 @@
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2019-06-11</date>
+			<date>2019-06-11T14:59:19Z</date>
 			<key>flags</key>
 			<integer>0</integer>
 			<key>label</key>
 			<string>Digits And Letters</string>
 			<key>modificationDate</key>
-			<date>2019-06-11</date>
+			<date>2019-06-11T14:59:19Z</date>
 			<key>plainText</key>
 			<string>[:alnum:]</string>
 			<key>snippetType</key>
@@ -97,7 +97,7 @@
 			<key>useCount</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>7855248C-BB94-467B-B1D0-E90AF457CE4F</string>
+			<string>73A242AB-14B5-4C4B-8CC0-CDBFCB5BD662</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -105,13 +105,13 @@
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2019-06-11</date>
+			<date>2019-06-11T14:59:19Z</date>
 			<key>flags</key>
 			<integer>0</integer>
 			<key>label</key>
 			<string>Digits</string>
 			<key>modificationDate</key>
-			<date>2019-06-11</date>
+			<date>2019-06-11T14:59:19Z</date>
 			<key>plainText</key>
 			<string>[:digit:]</string>
 			<key>snippetType</key>
@@ -119,7 +119,7 @@
 			<key>useCount</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>A18E0743-6195-4ADA-A988-787A0FC3A55B</string>
+			<string>AB1F766D-CEE2-4B8F-A45C-4DEFC6F7D91E</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -127,13 +127,13 @@
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2019-06-11</date>
+			<date>2019-06-11T14:59:19Z</date>
 			<key>flags</key>
 			<integer>0</integer>
 			<key>label</key>
 			<string>Hexade­Cimal Digits</string>
 			<key>modificationDate</key>
-			<date>2019-06-11</date>
+			<date>2019-06-11T14:59:19Z</date>
 			<key>plainText</key>
 			<string>[:xdigit:]</string>
 			<key>snippetType</key>
@@ -141,7 +141,7 @@
 			<key>useCount</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>CA8955AE-D6E5-4768-9C2C-66BBB59084B1</string>
+			<string>B228E482-B1C9-47F0-B9F3-B7F83D676F92</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -149,13 +149,13 @@
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2019-06-11</date>
+			<date>2019-06-11T14:59:19Z</date>
 			<key>flags</key>
 			<integer>0</integer>
 			<key>label</key>
 			<string>Punctu­Ation</string>
 			<key>modificationDate</key>
-			<date>2019-06-11</date>
+			<date>2019-06-11T14:59:19Z</date>
 			<key>plainText</key>
 			<string>[:punct:]</string>
 			<key>snippetType</key>
@@ -163,7 +163,7 @@
 			<key>useCount</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>580964DB-371B-459B-82A3-B5C945D2CD79</string>
+			<string>EEF442AC-A4F2-4334-A8B7-01CFB61C829E</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -171,13 +171,13 @@
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2019-06-11</date>
+			<date>2019-06-11T14:59:19Z</date>
 			<key>flags</key>
 			<integer>0</integer>
 			<key>label</key>
 			<string>Space And Tab</string>
 			<key>modificationDate</key>
-			<date>2019-06-11</date>
+			<date>2019-06-11T14:59:19Z</date>
 			<key>plainText</key>
 			<string>[:blank:]</string>
 			<key>snippetType</key>
@@ -185,7 +185,7 @@
 			<key>useCount</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>48229008-94F8-4B73-A05C-F4181F783F57</string>
+			<string>735A12E2-4804-45D9-A760-6477C1B7C674</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -193,13 +193,13 @@
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2019-06-11</date>
+			<date>2019-06-11T14:59:19Z</date>
 			<key>flags</key>
 			<integer>0</integer>
 			<key>label</key>
 			<string>Blank Characters</string>
 			<key>modificationDate</key>
-			<date>2019-06-11</date>
+			<date>2019-06-11T14:59:19Z</date>
 			<key>plainText</key>
 			<string>[:space:]</string>
 			<key>snippetType</key>
@@ -207,7 +207,7 @@
 			<key>useCount</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>B18BBCDE-02AE-4FD4-B35C-0D4593D2BC5A</string>
+			<string>BD823A46-297D-4B86-81D8-8B98B9DF60BF</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -215,13 +215,13 @@
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2019-06-11</date>
+			<date>2019-06-11T14:59:19Z</date>
 			<key>flags</key>
 			<integer>0</integer>
 			<key>label</key>
 			<string>Control Characters</string>
 			<key>modificationDate</key>
-			<date>2019-06-11</date>
+			<date>2019-06-11T14:59:19Z</date>
 			<key>plainText</key>
 			<string>[:cntrl:]</string>
 			<key>snippetType</key>
@@ -229,7 +229,7 @@
 			<key>useCount</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>0601BB2F-4529-48A6-AED8-2258C020E4A5</string>
+			<string>C31BE23C-D4E9-4B36-8A94-3081F6045C44</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -237,13 +237,13 @@
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2019-06-11</date>
+			<date>2019-06-11T14:59:19Z</date>
 			<key>flags</key>
 			<integer>0</integer>
 			<key>label</key>
 			<string>Printed Characters</string>
 			<key>modificationDate</key>
-			<date>2019-06-11</date>
+			<date>2019-06-11T14:59:19Z</date>
 			<key>plainText</key>
 			<string>[:graph:]</string>
 			<key>snippetType</key>
@@ -251,7 +251,7 @@
 			<key>useCount</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>DF7DC0BE-37BC-48BB-ABAC-2B4F504CD282</string>
+			<string>E85CF87C-6CDB-4066-B621-1844D38171B8</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -259,13 +259,13 @@
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2019-06-11</date>
+			<date>2019-06-11T14:59:19Z</date>
 			<key>flags</key>
 			<integer>0</integer>
 			<key>label</key>
 			<string>Printed Characters And Spaces</string>
 			<key>modificationDate</key>
-			<date>2019-06-11</date>
+			<date>2019-06-11T14:59:19Z</date>
 			<key>plainText</key>
 			<string>[:print:]</string>
 			<key>snippetType</key>
@@ -273,7 +273,7 @@
 			<key>useCount</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>8654DF41-ECE2-4D44-AE55-CDCCB50CA27A</string>
+			<string>C49C54E9-3430-4A8E-8EAF-A7207099E43C</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -281,13 +281,13 @@
 			<key>abbreviationMode</key>
 			<integer>0</integer>
 			<key>creationDate</key>
-			<date>2019-06-11</date>
+			<date>2019-06-11T14:59:19Z</date>
 			<key>flags</key>
 			<integer>0</integer>
 			<key>label</key>
 			<string>Digits Letters And Underscore </string>
 			<key>modificationDate</key>
-			<date>2019-06-11</date>
+			<date>2019-06-11T14:59:19Z</date>
 			<key>plainText</key>
 			<string>[:word:]</string>
 			<key>snippetType</key>
@@ -295,7 +295,7 @@
 			<key>useCount</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>4EA07FCD-8773-45D0-9054-4BE7677514F4</string>
+			<string>1041E882-4E68-4816-B6A1-B2100BF876D0</string>
 		</dict>
 	</array>
 </dict>
