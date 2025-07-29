@@ -108,7 +108,7 @@
 		</dict>
 		<dict>
 			<key>expandAfterMode</key>
-			<integer>2</integer>
+			<integer>0</integer>
 			<key>expanderExceptionsMode</key>
 			<integer>4</integer>
 			<key>lastUpdate</key>
